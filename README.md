@@ -9,3 +9,5 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/andreza_claudino_fatec_sp_go
 file:///C:/Users/Fatec/AppData/Local/Temp/Power%20BI%20Desktop/print-job-be4648c5-68bc-4854-bc45-7a70bdeb309d/PA%C3%8DSES%20E%20LINKS%20(POWER%20BI).pdf
 ## Quinta tarefa: POwer BI
 https://app.powerbi.com/groups/me/reports/d1689d0b-a6f4-4cdf-8b4d-cacfb1d057ed/ReportSection?experience=power-bi
+## Sexta tarefa: Power Bi
+![Tarefa 3 - Power BI](https://github.com/user-attachments/assets/0e91008d-d01c-44c5-a38a-0460995905f1)
