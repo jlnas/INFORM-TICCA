@@ -1,5 +1,5 @@
 # INFORM-TICA
-## Primeira tarefa: apresentação 
+## Primeira tarefa: apresentação
 
 ![Tarefa 1 - Apresentação](https://github.com/user-attachments/assets/2df058af-bc74-4304-bc1f-5f7d84041a4c)
 ## Segunda tarefa: Fórmulas e dados abertos (somase,cont.se)
