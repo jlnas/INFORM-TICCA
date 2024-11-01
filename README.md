@@ -1,9 +1,9 @@
 # INFORM-TICA
 ## Primeira tarefa: apresentação 
-https://www.canva.com/design/DAGNUbD9w60/HjyzfhkwK3iBiFnxeU8VJQ/edit?utm_content=DAGNUbD9w60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ![Tarefa 1 - Apresentação](https://github.com/user-attachments/assets/2df058af-bc74-4304-bc1f-5f7d84041a4c)
 ## Segunda tarefa: Fórmulas e dados abertos (somase,cont.se)
-https://fatecspgov-my.sharepoint.com/:x:/r/personal/julia_nascimento17_fatec_sp_gov_br/Documents/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202023.xlsx?d=w47a9415e27984110b15446711c2cf582&csf=1&web=1&e=parzaK
+
 ![Tarefa 2 - Formulas e Dados Abertos](https://github.com/user-attachments/assets/9c526502-181e-4ed1-9951-751744f96afd)
 
 ![Tarefas 2 - Formulas e Dados Abertos](https://github.com/user-attachments/assets/736077fd-a5d0-4585-9fab-d07b90677c7d)
@@ -11,7 +11,7 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/julia_nascimento17_fatec_sp_
 ![Tarefa 2  Formulas e Dados Abertos](https://github.com/user-attachments/assets/9fb56dac-b16b-415b-b9da-b25351b98edf)
 
 ## Terceira tarefa: Planilha Fórmulas e dados abertos (cont.se,cont.valores,divisão)
-https://fatecspgov-my.sharepoint.com/:x:/r/personal/andreza_claudino_fatec_sp_gov_br/Documents/Planilha%20f%C3%B3rmulas%20e%20dados%20abertos.xlsx?d=w60e4c08deed64d95bc4e107e53eeff70&csf=1&web=1&e=TspkJQ
+
 ![Tarefa 3 - Planilhas Formulas e Dados Abertos](https://github.com/user-attachments/assets/f3ef7bd6-174f-4785-b74e-23d338c4ed40)
 
 ## Quarta tarefa: Países e Links
