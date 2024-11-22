@@ -24,3 +24,6 @@
 
 ## Sexta tarefa: Power Bi
 ![Tarefa 3 - Power BI](https://github.com/user-attachments/assets/0e91008d-d01c-44c5-a38a-0460995905f1)
+
+## Sétima tarefa: Aplicativo
+![image](https://github.com/user-attachments/assets/7db070ab-4980-45c9-86bd-8c062264e6d2)
