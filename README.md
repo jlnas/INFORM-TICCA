@@ -27,3 +27,7 @@
 
 ## Sétima tarefa: Aplicativo
 ![image](https://github.com/user-attachments/assets/7db070ab-4980-45c9-86bd-8c062264e6d2)
+
+## Prova: Power BI
+![Power BI](https://github.com/user-attachments/assets/06897f10-9367-40c9-9c4a-c75fafa158c0)
+
