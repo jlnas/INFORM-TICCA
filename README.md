@@ -31,3 +31,5 @@
 ## Prova: Power BI
 ![Power BI](https://github.com/user-attachments/assets/06897f10-9367-40c9-9c4a-c75fafa158c0)
 
+## Tarefa 4: kPI
+![Tarefa 4 - KPI,](https://github.com/user-attachments/assets/fe94fcf1-8858-4154-87b6-6db3ebaf783f)
