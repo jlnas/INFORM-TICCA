@@ -32,4 +32,5 @@
 ![Power BI](https://github.com/user-attachments/assets/06897f10-9367-40c9-9c4a-c75fafa158c0)
 
 ## Tarefa 4: kPI
-![Tarefa 4 - KPI,](https://github.com/user-attachments/assets/fe94fcf1-8858-4154-87b6-6db3ebaf783f)
+![Tarefa 4 - KPI,](https://github.com/user-attachments/assets/4da2f9ca-70ce-4e4b-87f2-88a248f7b0be)
+
